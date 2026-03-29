@@ -11,11 +11,22 @@
 </p>
 
 
+
 ## About Me
 - 🎓 B.Tech CSE student with a solid foundation in Full-Stack MERN Development.    
 - 💻 Passionate about building scalable, real-world web applications.
 - 🧠 Actively practicing Data Structures & Algorithms to strengthen problem-solving skills.
 - 📈 Continuously learning, improving, and exploring new technologies in development & AI.
+---
+
+## Connect with Me
+
+- 📧 Email: nikhilghanghoriya2@gmail.com  
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+</p>
+
 ---
 
 ## Tech Stack
@@ -68,17 +79,7 @@
 
 ---
 
-## Connect with Me
 
-- 📧 Email: yourmail@gmail.com  
-- 🌐 Portfolio: https://yourportfolio.com  
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
-<img src="https://skillicons.dev/icons?i=twitter" height="30"/>
-</p>
-
----
 
 ## Fun Fact
 
