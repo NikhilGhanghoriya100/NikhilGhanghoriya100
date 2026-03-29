@@ -59,7 +59,9 @@
 
 
 
-## 📊 GitHub Stats:
+## <h2 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&left=true&vCenter=true&width=200&lines=📊" />
+</h2> GitHub Stats:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikhilGhanghoriya100&theme=github_dark" height="150"/>
