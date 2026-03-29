@@ -12,12 +12,13 @@
 
 
 ## About Me
-
-- 🎓 Computer Science student with a strong foundation in full-stack development  
-- 💻 Developing production-oriented, scalable web and AI-powered applications  
-- 🧠 Solved 300+ DSA problems across platforms like LeetCode and GeeksforGeeks  
-- 🚀 Building real-world projects and continuously learning new technologies  
-
+- 🎓 B.Tech CSE Student at UIT RGPV Bhopal (Class of 2028)  
+- 💻 Aspiring Software Developer with a focus on Full-Stack (MERN) Development  
+- 🚀 Currently building real-world projects like E-commerce platform & Animal Marketplace  
+- 🤖 Exploring AI & Machine Learning alongside development  
+- 📊 Practicing Data Structures & Algorithms using Java for placements  
+- 💡 Passionate about creating scalable and impactful tech solutions  
+- 📈 Consistently improving problem-solving and development skills
 ---
 
 ## Tech Stack
