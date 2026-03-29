@@ -39,11 +39,10 @@
 </p> -->
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react,nodejs,express,mongodb&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,tailwind,vite,vscode,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=figma,tailwind,vite,vscode,java&theme=dark" />
 </p>
-
 
 
 ## 📊 GitHub Stats:
