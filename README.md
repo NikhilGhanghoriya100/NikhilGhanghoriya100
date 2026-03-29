@@ -3,79 +3,84 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C853&center=true&vCenter=true&width=600&height=50&size=24&lines=Software+Developer;Full-Stack+MERN+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C853&center=true&vCenter=true&width=600&height=50&size=24&lines=Software+Developer;Full-Stack+MERN+Developer;Tech+Enthusiast;Problem+Solver" />
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 Computer Science Student  
-- 💻 Full-Stack Developer (MERN)  
-- 🤖 Exploring AI & Machine Learning  
-- 📊 Solved 300+ DSA Problems  
-- 🚀 Building Scalable Projects  
+<p align="left">Profile views: 604</p>
 
 ---
 
-### 🌐 Connect with Me
+## About Me
 
-<p align="left">
-<a href="https://linkedin.com/in/your-link">
-<img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
-</a>
-<a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="35"/>
-</a>
-<a href="https://yourportfolio.com">
-<img src="https://skillicons.dev/icons?i=vercel" height="35"/>
-</a>
-</p>
+- 🎓 Computer Science student with a strong foundation in full-stack development  
+- 💻 Developing production-oriented, scalable web and AI-powered applications  
+- 🧠 Solved 300+ DSA problems across platforms like LeetCode and GeeksforGeeks  
+- 🚀 Building real-world projects and continuously learning new technologies  
 
 ---
 
-### 🚀 Tech Stack
+## Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,html,css,git,github,vscode" />
-</p>
+- 💻 Languages: JavaScript, Python, Java  
+- 🌐 Frontend: React, HTML, CSS  
+- ⚙️ Backend: Node.js, Express  
+- 🗄️ Database: MongoDB  
+- 🛠️ Tools: Git, GitHub, VS Code  
 
 ---
 
-### 🧠 Projects
+## Projects
 
 - 🛒 **E-Commerce Website**  
-  ➤ Full-featured shopping platform with cart & payment  
+  ➤ Full-featured shopping platform with cart and payment integration  
+  ➤ https://your-link.com  
 
 - 🐐 **Animal Marketplace App**  
-  ➤ Buy & Sell animals online  
+  ➤ Buy & Sell animals like goats, cows, and pets online  
+  ➤ https://your-link.com  
 
-- 📊 **AI Project**  
-  ➤ Smart prediction system  
+- 📊 **AI Based Project**  
+  ➤ Smart prediction system using Machine Learning  
+  ➤ https://your-link.com  
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
 </p>
 
 ---
 
-### 📈 Top Languages
+## Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
+## Achievements
+
+- 🥇 Solved 300+ DSA problems  
+- 🚀 Built multiple real-world projects  
+- 💡 Active learner in development and AI  
+
+---
+
+## Connect with Me
+
+- 📧 Email: yourmail@gmail.com  
+- 🌐 Portfolio: https://yourportfolio.com  
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+<img src="https://skillicons.dev/icons?i=twitter" height="30"/>
+</p>
+
+---
+
+## Fun Fact
 
 > I turn coffee ☕ into code 💻
-
----
-
-<p align="center">🔥 Let's build something amazing together 🚀</p>
