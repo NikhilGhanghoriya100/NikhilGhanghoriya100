@@ -29,10 +29,7 @@
 </a>
 </p>
 
-<h2>
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=25&duration=2000&repeat=true&lines=%3C%2F%3E" />
-  Languages and Tools:
-</h2>
+## <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=25&duration=2000&repeat=true&lines=%3C%2F%3E" /> Languages and Tools:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react,nodejs,express,mongodb,git,github,figma,tailwind,vite,vscode,java&theme=dark" />
