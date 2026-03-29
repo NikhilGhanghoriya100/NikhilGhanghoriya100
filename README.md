@@ -55,7 +55,7 @@
 
 
 
-## <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=200&lines=📊+GitHub+Stats" />
+## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikhilGhanghoriya100&theme=github_dark" height="150"/>
