@@ -35,9 +35,8 @@
   <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react,nodejs,express,mongodb,git,github,figma,tailwind,vite,vscode,java&theme=dark" />
 </p>
 
+## 📊 GitHub Stats
 
-## GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=NikhilGhanghoriya100&show_icons=true" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikhilGhanghoriya100&theme=radical" />
 </p>
