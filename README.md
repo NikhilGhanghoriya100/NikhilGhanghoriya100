@@ -39,29 +39,5 @@
 ## GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=NikhilGhanghoriya100&show_icons=true" />
 </p>
-
----
-
-## Most Used Languages
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
-
----
-
-## Achievements
-
-- 🥇 Solved 300+ DSA problems  
-- 🚀 Built multiple real-world projects  
-- 💡 Active learner in development and AI  
-
----
-
-
-
-## Fun Fact
-
-> I turn coffee ☕ into code 💻
