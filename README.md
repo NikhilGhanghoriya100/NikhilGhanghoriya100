@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Nikhil Ghanghoriya</h1>
+<h3 align="center">🚀 Full Stack Developer | AI/ML Explorer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;AI+%7C+Machine+Learning+Explorer;Passionate+Coder+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;Building+Real+World+Projects;Future+Software+Engineer+💻" />
 </p>
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech CSE Student (Replace Year)
-- 💻 Passionate about Full Stack Development
-- 🤖 Exploring AI & Machine Learning
-- 📈 Solved 300+ DSA problems (Update yours)
-- 🚀 Building real-world projects
+- 🎓 B.Tech CSE Student (UIT RGPV Bhopal - 2028)
+- 💻 Passionate about building scalable web applications
+- 🤖 Exploring AI, Machine Learning & Startups
+- 📈 Solving Data Structures & Algorithms
+- 🚀 Currently building: **Animal Marketplace Platform**
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/your-link" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
@@ -33,53 +33,71 @@
 
 ---
 
-### 🚀 Tech Stack:
+### 🚀 Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,git,github,vscode" />
 </p>
 
 ---
 
-### 🧠 Projects:
-- 🛒 **E-Commerce Website**  
-  ➤ Full-featured shopping platform with cart & payment integration  
-  🔗 https://your-link.com  
+### 🧠 Featured Projects
 
-- 🐐 **Animal Marketplace App**  
-  ➤ Buy & Sell animals like goats, cows, pets online  
-  🔗 https://your-link.com  
+🚀 **Animal Marketplace (Startup Idea)**  
+➤ Buy & Sell animals like goats, cows & pets online  
+➤ Real-time listing & seller system  
+🔗 https://your-link.com  
 
-- 📊 **AI Based Project**  
-  ➤ Smart prediction system using ML  
-  🔗 https://your-link.com  
+🛒 **E-Commerce Website**  
+➤ Full shopping platform with cart & product filtering  
+➤ Clean UI + responsive design  
+🔗 https://your-link.com  
+
+📊 **AI/ML Project**  
+➤ Prediction system using machine learning  
+➤ Real-world data based insights  
+🔗 https://your-link.com  
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📈 Most Used Languages:
+### 📈 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 Achievements:
-- 🥇 Solved XXX+ DSA problems
-- 🚀 Built multiple real-world projects
-- 💡 Active learner in development & AI
+### 🏆 Achievements
+
+- 🥇 Solved XXX+ DSA Problems  
+- 🚀 Built Real-world Projects  
+- 💡 Exploring Startup Ideas & AI  
 
 ---
 
-### ⚡ Fun Fact:
-> I turn coffee ☕ into code 💻
+### ⚡ Current Focus
+
+- 🔥 Full Stack Development (MERN)
+- 🤖 AI/ML Learning
+- 💼 Building Startup Projects
+- 📚 DSA for Placements
 
 ---
 
-<p align="center">🔥 Let's build something amazing together 🚀</p>
+### 💡 Fun Fact
+> I don’t just code, I build solutions 🚀
+
+---
+
+<p align="center">
+  🔥 <b>"Code. Build. Scale."</b> 🔥
+</p>
