@@ -29,31 +29,13 @@
 </a>
 </p>
 
-## Tech Stack
 
-- 💻 Languages: JavaScript, Python, Java  
-- 🌐 Frontend: React, HTML, CSS  
-- ⚙️ Backend: Node.js, Express  
-- 🗄️ Database: MongoDB  
-- 🛠️ Tools: Git, GitHub, VS Code  
+## 🛠️ Languages & Tools
+<hr style="border:1px solid #FFA500; width:80%;"/>
 
----
-
-## Projects
-
-- 🛒 **E-Commerce Website**  
-  ➤ Full-featured shopping platform with cart and payment integration  
-  ➤ https://your-link.com  
-
-- 🐐 **Animal Marketplace App**  
-  ➤ Buy & Sell animals like goats, cows, and pets online  
-  ➤ https://your-link.com  
-
-- 📊 **AI Based Project**  
-  ➤ Smart prediction system using Machine Learning  
-  ➤ https://your-link.com  
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,python,html,css,git,github,vscode" />
+</p>
 
 ## GitHub Stats
 
