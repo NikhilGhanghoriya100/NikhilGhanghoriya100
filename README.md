@@ -39,10 +39,24 @@
 </p> -->
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=figma,tailwind,vite,vscode,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="50" />
 </p>
+
+
 
 
 ## 📊 GitHub Stats:
