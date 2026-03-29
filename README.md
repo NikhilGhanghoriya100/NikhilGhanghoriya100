@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=650&height=50&size=24&lines=Thanks+for+visiting+my+profile+😊;Let's+stay+connected+🤝+and+build+something+awesome+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=650&height=50&size=24&lines=Thanks+for+visiting+my+profile+😊;let's+stay+in+touch+and+innovate!🚀" />
 </p>
 
 ## Show some ❤️ by starring ⭐ repositories you find useful!
