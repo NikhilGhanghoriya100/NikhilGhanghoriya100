@@ -3,10 +3,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C853&center=true&vCenter=true&width=600&height=50&size=24&lines=Software+Developer;Full-Stack+MERN+Developer;Tech+Enthusiast;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&center=true&vCenter=true&width=650&height=60&size=30&lines=Software+Developer;Full-Stack+MERN+Developer;Tech+Enthusiast;Problem+Solver" />
 </p>
 
-<p align="left">Profile views: 604</p>
+---
+
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
