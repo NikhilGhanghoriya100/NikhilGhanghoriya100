@@ -56,8 +56,7 @@
 
 
 ## <h2 align="left">
-  📊 GitHub Stats 
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"/>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="25"/> GitHub Stats
 </h2>
 
 <p align="center">
