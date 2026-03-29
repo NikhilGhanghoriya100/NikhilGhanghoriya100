@@ -34,8 +34,14 @@
 
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"/> Languages and Tools:
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react,nodejs,express,mongodb,git,github,figma,tailwind,vite,vscode,java&theme=dark" />
+</p> -->
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react,nodejs,express,mongodb&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,tailwind,vite,vscode,java&theme=dark" />
 </p>
 
 
