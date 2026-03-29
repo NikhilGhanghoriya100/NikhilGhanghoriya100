@@ -29,24 +29,13 @@
 </a>
 </p>
 
-
-## 🛠️ Languages & Tools:
-<hr style="border:1px solid #FFA500; width:80%;"/>
+## 🚀 Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,python,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css,python,react,nodejs,express,mongodb,git,github,figma&theme=dark" />
 </p>
 
-## 🛠️ Languages & Tools
-<hr style="border:1px solid #FFA500; width:80%;"/>
 
-<h3>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"/> Languages & Tools
-</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,python,html,css,git,github,vscode" />
-</p>
 ## GitHub Stats
 
 <p align="left">
