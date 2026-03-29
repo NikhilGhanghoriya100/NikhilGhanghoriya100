@@ -12,13 +12,10 @@
 
 
 ## About Me
-- 🎓 B.Tech CSE Student at UIT RGPV Bhopal (Class of 2028)  
-- 💻 Aspiring Software Developer with a focus on Full-Stack (MERN) Development  
-- 🚀 Currently building real-world projects like E-commerce platform & Animal Marketplace  
-- 🤖 Exploring AI & Machine Learning alongside development  
-- 📊 Practicing Data Structures & Algorithms using Java for placements  
-- 💡 Passionate about creating scalable and impactful tech solutions  
-- 📈 Consistently improving problem-solving and development skills
+- 🎓 B.Tech CSE student with a solid foundation in Full-Stack MERN Development.    
+- 💻 Passionate about building scalable, real-world web applications.
+- 🧠 Actively practicing Data Structures & Algorithms to strengthen problem-solving skills.
+- 📈 Continuously learning, improving, and exploring new technologies in development & AI.
 ---
 
 ## Tech Stack
