@@ -17,17 +17,17 @@
 - 💻 Passionate about building scalable, real-world web applications.
 - 🧠 Actively practicing Data Structures & Algorithms to strengthen problem-solving skills.
 - 📈 Continuously learning, improving, and exploring new technologies in development & AI.
----
+
 
 ## Connect with Me
 
 - 📧 Email: nikhilghanghoriya2@gmail.com  
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+<a href="https://www.linkedin.com/in/nikhil-ghanghoriya2/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+</a>
 </p>
-
----
 
 ## Tech Stack
 
