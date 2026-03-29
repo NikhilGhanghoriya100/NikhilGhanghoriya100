@@ -55,7 +55,7 @@
 
 
 
-## 📊 GitHub Stats:
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"/> GitHub Stats:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikhilGhanghoriya100&theme=github_dark" height="150"/>
