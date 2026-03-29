@@ -55,9 +55,7 @@
 
 
 
-## <h2 align="left">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="25"/> GitHub Stats
-</h2>
+## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikhilGhanghoriya100&theme=github_dark" height="150"/>
