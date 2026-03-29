@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&center=true&vCenter=true&width=650&height=60&size=30&lines=Software+Developer;Full-Stack+MERN+Developer;Tech+Enthusiast;Problem+Solver" />
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=orange&style=flat" alt="profile views" />
+</p>
+
 
 ## About Me
 
