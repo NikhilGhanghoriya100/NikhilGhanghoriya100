@@ -19,6 +19,7 @@
 - 📈 Continuously learning, improving, and exploring new technologies in development & AI.
 
 
+
 ## Connect with Me
 
 - 📧 Email: nikhilghanghoriya2@gmail.com  
@@ -29,14 +30,22 @@
 </a>
 </p>
 
+
+
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"/> Languages and Tools:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react,nodejs,express,mongodb,git,github,figma,tailwind,vite,vscode,java&theme=dark" />
 </p>
 
-## 📊 GitHub Stats
+
+
+## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikhilGhanghoriya100&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark" height="150"/>
+  
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true" height="150"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark&utcOffset=5.5" height="150"/>
 </p>
