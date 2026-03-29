@@ -55,7 +55,7 @@
 
 
 
-## GitHub Stats:
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+I'm+Your+Name;Full+Stack+Developer;Problem+Solver)](https://git.io/typing-svg) GitHub Stats:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikhilGhanghoriya100&theme=github_dark" height="150"/>
