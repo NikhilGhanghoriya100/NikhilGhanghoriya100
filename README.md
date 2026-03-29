@@ -10,13 +10,15 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 👨‍💻 About Me
-- 🎓 B.Tech CSE Student (Replace Year)
-- 💻 Passionate about Full Stack Development
-- 🤖 Exploring AI & Machine Learning
-- 📈 Solved 300+ DSA problems (Update yours)
-- 🚀 Building real-world projects
 
+### 👨‍💻 About Me
+<hr style="border:1px solid #ddd; width:100%;"/>
+
+- 🎓 B.Tech CSE Student (Replace Year)  
+- 💻 Passionate about Full Stack Development  
+- 🤖 Exploring AI & Machine Learning  
+- 📈 Solved 300+ DSA problems (Update yours)  
+- 🚀 Building real-world projects  
 ---
 
 ### 🌐 Connect with me:
