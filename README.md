@@ -1,7 +1,6 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Nikhil Ghanghoriya
 </h1>
-<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;AI+%7C+Machine+Learning+Explorer;Passionate+Coder+%F0%9F%92%BB" />
