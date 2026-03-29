@@ -34,10 +34,6 @@
 
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"/> Languages and Tools:
 
-<!-- <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react,nodejs,express,mongodb,git,github,figma,tailwind,vite,vscode,java&theme=dark" />
-</p> -->
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" />
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50" />
@@ -59,9 +55,7 @@
 
 
 
-## <h2 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&left=true&vCenter=true&width=200&lines=📊" />
-</h2> GitHub Stats:
+## GitHub Stats:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikhilGhanghoriya100&theme=github_dark" height="150"/>
@@ -70,3 +64,5 @@
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NikhilGhanghoriya100&theme=github_dark&utcOffset=5.5" height="150"/>
 </p>
+
+## Show some ❤️ by starring ⭐ repositories you find useful!
