@@ -65,4 +65,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NikhilGhanghoriya100&theme=github_dark&utcOffset=5.5" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&center=true&vCenter=true&width=650&height=60&size=30&lines=Thanks+for+visiting+my+profile;let's+stay+in+touch+and+innovate" />
+</p>
+
 ## Show some ❤️ by starring ⭐ repositories you find useful!
