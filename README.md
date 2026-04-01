@@ -49,7 +49,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50" />
   <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="50" />
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" />
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="50" />
 </p>
 
 
